@@ -112,6 +112,3 @@ python -m pytest tests/test_agent.py -v
 | `retries >= 3` | ❌ Strictly Prohibited | Escalated to Human Operations Desk | Prevents runaway billing loops |
 
 ---
-
-## 📄 License
-MIT License
